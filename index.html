@@ -3,9 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>2nd screen</title>
+    <script>
+    var displayItem = function (item) {
+      document.querySelector('pre').innerHTML = JSON.stringify(item);
+    }
+    </script>
     <script data-joshfire-bootstrap></script>
   </head>
   <body>
     <p>Hello World</p>
+    <pre></pre>
   </body>
 </html>
