@@ -6,15 +6,5 @@
   "keywords": [
     "pusher",
     "2ndscreen"
-  ],
-  "joshfire": {
-    "options": {
-      "schema": {
-        "pusherAppKey": {
-          "type": "string",
-          "title": "<a href=\"http://pusher.com\">Pusher</a> APP KEY"
-        }
-      }
-    }
-  }
+  ]
 }
