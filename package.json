@@ -1,0 +1,20 @@
+{
+  "name": "2ndscreen",
+  "fullName": "2nd Screen",
+  "version": "1.0.0",
+  "description": "This template alone is not useful but it can display information sent via the addon \"2nd screen\" installed on others apps.",
+  "keywords": [
+    "pusher",
+    "2ndscreen"
+  ],
+  "joshfire": {
+    "options": {
+      "schema": {
+        "pusherAppKey": {
+          "type": "string",
+          "title": "<a href=\"http://pusher.com\">Pusher</a> APP KEY"
+        }
+      }
+    }
+  }
+}
